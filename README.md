@@ -1,4 +1,4 @@
-# Practica6BasesdeDades
+# Pràctica 6 Bases de Dades
 
 L’empresa XXXX ens demana que realitzem una base de dades per a facilitar la seva gestió del seu magatzem. 
 Actualment funcionen amb paper i bolígraf, havent de fer un contatge setmanal, i els hi agradaria fer ús d’una base de dades 
