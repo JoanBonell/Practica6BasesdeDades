@@ -14,7 +14,7 @@
 
 ![Downloads](https://img.shields.io/github/downloads/JoanBonell/Practica6BasesdeDades/total) ![Contributors](https://img.shields.io/github/contributors/JoanBonell/Practica6BasesdeDades?color=dark-green) ![Issues](https://img.shields.io/github/issues/JoanBonell/Practica6BasesdeDades) ![License](https://img.shields.io/github/license/JoanBonell/Practica6BasesdeDades) 
 
-## About The Project
+## Sobre el nostre projecte
 
 ![Screen Shot](images/screenshot.png)
 
