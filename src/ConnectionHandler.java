@@ -18,6 +18,7 @@ public class ConnectionHandler {
         Class.forName("org.postgresql.Driver");            
         Connection c = DriverManager.getConnection("jdbc:postgresql://localhost:5433/dreamhouse", "postgres", "");
         return c;        
+        System.out.println("Hola");
     }
     
 }
